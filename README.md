@@ -12,8 +12,8 @@
         </div>
 
         <ul>
-          <li>담당 : </li>
-          <li>이메일 : </li>
+          <li>담당 : (팀원)</li>
+          <li>이메일 : (916kimjh@naver.com)</li>
           <li>깃허브아이디(레포지토리링크) : </li>
           <li>자유롭게 소개 :</li>
         </ul>
@@ -23,7 +23,7 @@
     <!-- Card 2 -->
     <td width="50%">
       <div style="border:1px solid #e5e7eb;border-radius:12px;padding:16px;margin:12px;">
-        <strong>📌 이름</strong>
+        <strong>📌 이름 (김준형2)</strong>
 
         <div style="border-radius:12px;background:#f5f5f5;padding:16px;margin:12px 0;text-align:center;">
           <sub>🖼 Add an image</sub>
