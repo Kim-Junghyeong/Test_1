@@ -5,7 +5,7 @@
     <!-- Card 1 -->
     <td width="50%">
       <div style="border:1px solid #e5e7eb;border-radius:12px;padding:16px;margin:12px;">
-        <strong>📌 이름 (👑PM)</strong>
+        <strong>📌 이름 (김준형)</strong>
 
         <div style="border-radius:12px;background:#f5f5f5;padding:16px;margin:12px 0;text-align:center;">
           <sub>🖼 Add an image</sub>
