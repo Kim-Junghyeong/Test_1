@@ -1,9 +1,9 @@
-<h1>👥 팀 소개</h1>
+<h1> 팀 소개</h1>
 
 <table>
   <tr>
     <td width="50%" style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; vertical-align:top;">
-      <strong>📌 이름 (김준형)</strong>
+      <strong> 이름 (김준형)</strong>
 
       <p style="background:#f5f5f5; padding:16px; border-radius:12px; text-align:center;">
         <sub>🖼 Add an image</sub>
