@@ -2,78 +2,66 @@
 
 <table>
   <tr>
-    <!-- Card 1 -->
-    <td width="50%">
-      <div style="border:1px solid #e5e7eb;border-radius:12px;padding:16px;margin:12px;">
-        <strong>📌 이름 (김준형)</strong>
+    <td width="50%" style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; vertical-align:top;">
+      <strong>📌 이름 (김준형)</strong>
 
-        <div style="border-radius:12px;background:#f5f5f5;padding:16px;margin:12px 0;text-align:center;">
-          <sub>🖼 Add an image</sub>
-        </div>
+      <p style="background:#f5f5f5; padding:16px; border-radius:12px; text-align:center;">
+        <sub>🖼 Add an image</sub>
+      </p>
 
-        <ul>
-          <li>담당 : (팀원)</li>
-          <li>이메일 : (916kimjh@naver.com)</li>
-          <li>깃허브아이디(레포지토리링크) : </li>
-          <li>자유롭게 소개 :</li>
-        </ul>
-      </div>
+      <ul>
+        <li>담당 : 팀원</li>
+        <li>이메일 : 916kimjh@naver.com</li>
+        <li>깃허브아이디(레포지토리링크) : </li>
+        <li>자유롭게 소개 :</li>
+      </ul>
     </td>
 
-    <!-- Card 2 -->
-    <td width="50%">
-      <div style="border:1px solid #e5e7eb;border-radius:12px;padding:16px;margin:12px;">
-        <strong>📌 이름 (김준형2)</strong>
+    <td width="50%" style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; vertical-align:top;">
+      <strong>📌 이름 (김준형2)</strong>
 
-        <div style="border-radius:12px;background:#f5f5f5;padding:16px;margin:12px 0;text-align:center;">
-          <sub>🖼 Add an image</sub>
-        </div>
+      <p style="background:#f5f5f5; padding:16px; border-radius:12px; text-align:center;">
+        <sub>🖼 Add an image</sub>
+      </p>
 
-        <ul>
-          <li>담당 : </li>
-          <li>이메일 : </li>
-          <li>깃허브아이디(레포지토리링크) : </li>
-          <li>자유롭게 소개 :</li>
-        </ul>
-      </div>
+      <ul>
+        <li>담당 : </li>
+        <li>이메일 : </li>
+        <li>깃허브아이디(레포지토리링크) : </li>
+        <li>자유롭게 소개 :</li>
+      </ul>
     </td>
   </tr>
 
   <tr>
-    <!-- Card 3 -->
-    <td width="50%">
-      <div style="border:1px solid #e5e7eb;border-radius:12px;padding:16px;margin:12px;">
-        <strong>📌 이름 (👑PM)</strong>
+    <td width="50%" style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; vertical-align:top;">
+      <strong>📌 이름</strong>
 
-        <div style="border-radius:12px;background:#f5f5f5;padding:16px;margin:12px 0;text-align:center;">
-          <sub>🖼 Add an image</sub>
-        </div>
+      <p style="background:#f5f5f5; padding:16px; border-radius:12px; text-align:center;">
+        <sub>🖼 Add an image</sub>
+      </p>
 
-        <ul>
-          <li>담당 : </li>
-          <li>이메일 : </li>
-          <li>깃허브아이디(레포지토리링크) : </li>
-          <li>자유롭게 소개 :</li>
-        </ul>
-      </div>
+      <ul>
+        <li>담당 : </li>
+        <li>이메일 : </li>
+        <li>깃허브아이디(레포지토리링크) : </li>
+        <li>자유롭게 소개 :</li>
+      </ul>
     </td>
 
-    <!-- Card 4 -->
-    <td width="50%">
-      <div style="border:1px solid #e5e7eb;border-radius:12px;padding:16px;margin:12px;">
-        <strong>📌 이름</strong>
+    <td width="50%" style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; vertical-align:top;">
+      <strong>📌 이름</strong>
 
-        <div style="border-radius:12px;background:#f5f5f5;padding:16px;margin:12px 0;text-align:center;">
-          <sub>🖼 Add an image</sub>
-        </div>
+      <p style="background:#f5f5f5; padding:16px; border-radius:12px; text-align:center;">
+        <sub>🖼 Add an image</sub>
+      </p>
 
-        <ul>
-          <li>담당 : </li>
-          <li>이메일 : </li>
-          <li>깃허브아이디(레포지토리링크) : </li>
-          <li>자유롭게 소개 :</li>
-        </ul>
-      </div>
+      <ul>
+        <li>담당 : </li>
+        <li>이메일 : </li>
+        <li>깃허브아이디(레포지토리링크) : </li>
+        <li>자유롭게 소개 :</li>
+      </ul>
     </td>
   </tr>
 </table>
